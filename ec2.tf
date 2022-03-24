@@ -3,4 +3,4 @@ resourse "null_resourse" "sample" {
     command = "echo ${var.SERVER_COUNT}"
   }
 }
-  variable "SERVER_COUNT" {}
+
